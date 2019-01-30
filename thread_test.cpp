@@ -1,3 +1,6 @@
+/*
+ *多线程版本mapreduce
+ * */
 #include <iostream>
 #include <list>
 #include <numeric>
